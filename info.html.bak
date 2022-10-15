@@ -16,8 +16,8 @@
 
     <script>
         new Typed('#animated', {
-            strings: ["onlive", "from Uzbekistan", "15 y.o", "memory help", "beginner developer", "love yourself", "love music", "have a minecraft server"],
-            typeSpeed: 15,
+            strings: ["onlive", "from Uzbekistan", "15 y.o", "idk", "newbie", "love server create", "music one love", "shhh"],
+            typeSpeed: 17,
             backSpeed: 0,
             cursorChar: '❚',
             smartBackspace: true,

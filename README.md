@@ -1,1 +1,1 @@
-idk, lie, cool
+onlive, beginner and maybe developer, have minecraft server
