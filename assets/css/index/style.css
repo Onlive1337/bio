@@ -71,7 +71,7 @@ a.link {
     width: 10em;
     height: 10em;
     border-radius: 5.6em;
-    border: hsl(56, 100%, 50%) solid 1px;
+    border: hsl(0, 0%, 100%) solid 1px;
 }
 
 .upperinfo {
@@ -83,7 +83,7 @@ a.link {
 a.link:hover,
 button:hover {
     background: #fff6;
-    color: #f4f803;
+    color: #fcfcfc;
 }
 
 button:active, button:focus {
