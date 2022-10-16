@@ -30,6 +30,7 @@ body {
     backdrop-filter: blur(15px);
     -webkit-backdrop-filter: blur(15px);
     border: hsl(0, 0%, 100%) solid 1px;
+    opacity: 0.7;
 }
 .buttons {
     min-width: 300px;
@@ -48,6 +49,7 @@ a.link {
     margin: 4px;
     background: var(--back-color);
     color: rgb(255, 255, 255);
+    opacity: 0.7;
     cursor: pointer;
     border-radius: 8px; 
     -webkit-border-radius: 8px;
@@ -72,6 +74,7 @@ a.link {
     height: 10em;
     border-radius: 5.6em;
     border: hsl(0, 0%, 100%) solid 1px;
+    opacity: 0.7;
 }
 
 .upperinfo {
